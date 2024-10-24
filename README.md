@@ -7,6 +7,12 @@
 
 [Tools Used](tools-used)
 
+[Data Cleaning and Preparation](data-cleaning-and-prepration)
+
+[Data Analysis](data-analysis)
+
+[Data Visualization](data-visualization)
+
 ### Project Overview
 This Data Analysis project aims to uncover key insights such as top-selling products, regional performance, and monthly sales trends. By analysising the various parameters in the data received, we seek to gather enought insight to make reasonable decisions which then enable us to tell compellling stories around our data from the insight gotten and to know the best performance from our data.
 
@@ -42,3 +48,10 @@ The primary source of Data used here is Sale Data.csv and is an open data source
   SELECT * FROM TABLE1
   WHERE CONDITION = TRUE
   ```
+### Data Visualization
+![image](https://github.com/user-attachments/assets/0c1ac831-6385-4d46-bc5c-3227ae41e016)
+
+|Heading 1|Heading 2|
+|---------|---------|
+|Table 1|Table 2|
+
