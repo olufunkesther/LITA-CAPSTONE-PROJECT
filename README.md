@@ -1,17 +1,17 @@
 # LITA-CAPSTONE-PROJECT
 ## Project Sales Analysis: LITA SALES ANALYSIS
 
-[Project Overview](project-overview)
+[Project Overview](#project-overview)
 
-[Data Sources](data-sources)
+[Data Sources](#data-sources)
 
-[Tools Used](tools-used)
+[Tools Used](#tools-used)
 
-[Data Cleaning and Preparation](data-cleaning-and-prepration)
+[Data Cleaning and Preparation](#data-cleaning-and-prepration)
 
-[Data Analysis](data-analysis)
+[Data Analysis](#data-analysis)
 
-[Data Visualization](data-visualization)
+[Data Visualization](#data-visualization)
 
 ### Project Overview
 This Data Analysis project aims to uncover key insights such as top-selling products, regional performance, and monthly sales trends. By analysising the various parameters in the data received, we seek to gather enought insight to make reasonable decisions which then enable us to tell compellling stories around our data from the insight gotten and to know the best performance from our data.
