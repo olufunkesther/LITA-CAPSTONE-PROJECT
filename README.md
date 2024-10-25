@@ -24,10 +24,10 @@ The primary source of Data used here is Sale Data.csv and is an open data source
   1. for Data Cleaning
   2. for Analysis
   3. for Data Visualization
- 
-  - Structured Query Language Query for Querying of Data
-  - PowerBi for Data Visualization
-  - Github for Portfolio Building
+
+- Structured Query Language Query for Querying of Data
+- PowerBi for Data Visualization
+- Github for Portfolio Building
  
   ### Data Cleaning and Preparation
   In thee intial phase of the Data cleaning and preparations, we perform the following action;
