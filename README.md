@@ -5,6 +5,8 @@
 
 [Data Sources](#data-sources)
 
+[Key Metrics](#key-metrics)
+
 [Tools Used](#tools-used)
 
 [Data Cleaning and Preparation](#data-cleaning-and-preparation)
@@ -26,7 +28,7 @@ The primary source of Data used here is Sale Data.csv and is an open data source
 This project was designed to address the following analysis goals:
 - Revenue by Products and by Months: Determine the total and average revenue generated to give a sales overview.
 - Region by Units sold: Analyzes the number of units sold per regions to identify the highest-selling locations.
-- Region by products and by Revenue: Analyses the products across the regions and give a regional breakdown.
+- Region by Products and by Revenue: Analyses the products across the regions and give a regional breakdown.
 
 ### Key Metrics
 ---
@@ -34,7 +36,7 @@ This project was designed to address the following analysis goals:
 - Unit sold: sum of quantity, grouped by region and months.
 - Average Sales: analysed as total revenue/total unit sold for each region.
 
-### Tools Used/Method
+### Tools Used
 ---
 - Microsoft Excel [Download Here](https://www.microsoftexcel.com)
   1. for Data Cleaning
