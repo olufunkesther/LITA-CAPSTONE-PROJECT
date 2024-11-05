@@ -14,6 +14,8 @@
 
 [Data Analysis](#data-analysis)
 
+[Inference](#inference)
+
 [Data Visualization](#data-visualization)
 
 ### Project Overview
@@ -75,6 +77,7 @@ This project was designed to address the following analysis goal of Swift Store:
 
 ### Inference
 ---
+
 #### Sales Trend
 From the analysis of the data, below is the breakdown of the Sales trend by Months.
 1. February had the highest sales of **9,930**
@@ -95,6 +98,7 @@ The Pivot table below is the analysis of this trend.
 ![image](https://github.com/user-attachments/assets/6e047ec9-eae0-4356-b20f-349febafecae)
 
 
+
 #### Regional Breakdown
 From the analysis of the data, below is the breakdown of Revenue and Sales by Region of Swift Store
 1. South Region had the highest Revenue of **927,820** with a percentage of **44.16%** and highest Sales of **24,298** with a percentage of **35.49%**
@@ -104,6 +108,7 @@ From the analysis of the data, below is the breakdown of Revenue and Sales by Re
 
 The Pivot table below shows the analysis of this breakdown.
 ![image](https://github.com/user-attachments/assets/1ebc9c0c-a8e2-4fcd-8dfe-1159aa8fe1f5)
+
 
 
 #### Top Performing Products
