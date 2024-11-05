@@ -1,4 +1,4 @@
-# LITA DATA ANALYSIS PROJECT
+ # LITA DATA ANALYSIS PROJECT
 
 ## Project 1: SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE
 
@@ -22,7 +22,7 @@ This project aims to uncover key insights such as top-selling products, regional
 
 ### Data Sources
 ---
-The primary source of Data used here is Sale Data.csv and is an open data source that can be freely downloaded from an open source data.
+The primary source of Data used here is the Sale Data provided by the sales department of the organiztaion. The Data given is a table array of columns which include Product, Order ID, Customer ID, Region, Order Date, Quantity Sold and Unit Price.
 
 ### Project Objectives
 ---
@@ -53,9 +53,9 @@ This project was designed to address the following analysis goals:
  ### Data Cleaning and Preparation
   ---
   In the intial phase of the Data cleaning and preparations, we perform the following action;
-  1. Data loading and Inspection
-  2. Handling missing variables
-  3. Data Cleaning and formatting
+  1. Removal of Duplicates: duplicates were identified and removed within the dataset.
+  2. Handling missing variables: some variables like revenue were calculated.
+  3. Data Formatting: the data was standardized in the right format.
 
 ### Exploratory Data Analysis
   ---
@@ -72,6 +72,11 @@ This project was designed to address the following analysis goals:
   Total Revenue = Total Sales * Unit price
   Average Revenue = Total Revenue/Unit sold
   ```
+
+### Inference
+---
+#### Sales Trend
+
 ### Data Visualization
 ---
 ![image](https://github.com/user-attachments/assets/0c1ac831-6385-4d46-bc5c-3227ae41e016)
