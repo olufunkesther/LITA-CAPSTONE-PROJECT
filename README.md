@@ -77,6 +77,15 @@ This project was designed to address the following analysis goals:
 ---
 #### Sales Trend
 
+#### Regional Breakdown
+From the analysis of the data, below is the breakdown of Revenue and Sales by Region
+1. South Region had the highest Revenue of **927,820** with a percentage of **44.16%** and highest Sales of **24,298** with a percentage of **35.49%**
+2. East Region had a Revenue of **485925** with a percentage of **23.13%** and a sales **20,361** of with a percentage of **29.74%**
+3. North Region had a Revenue of **378,000** with a percentage of **18.42%** and a sales of **12,402** with a percentage of **18.12%**
+4. West Region had the lowest Revenue of **300,345** with a percentage of **14.29%** and lowest sales of **11,400** with a percentage of **16.65%**
+
+#### Top Performing Products
+
 ### Data Visualization
 ---
 ![image](https://github.com/user-attachments/assets/0c1ac831-6385-4d46-bc5c-3227ae41e016)
