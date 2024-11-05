@@ -40,9 +40,9 @@ This project was designed to address the following analysis goals:
 ### Tools Used
 ---
 - Microsoft Excel [Download Here](https://www.microsoftexcel.com)
-  1. for Data Cleaning
-  2. for Analysis
-  3. for Data Visualization
+ 1. for Data Cleaning
+ 2. for Analysis
+ 3. for Data Visualization
 
 - Structured Query Language Query for Querying of Data
   
