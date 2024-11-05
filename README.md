@@ -84,7 +84,16 @@ From the analysis of the data, below is the breakdown of Revenue and Sales by Re
 3. North Region had a Revenue of **378,000** with a percentage of **18.42%** and a sales of **12,402** with a percentage of **18.12%**
 4. West Region had the lowest Revenue of **300,345** with a percentage of **14.29%** and lowest sales of **11,400** with a percentage of **16.65%**
 
+The Pivot table below shows the analysis of this breakdown.
+
 #### Top Performing Products
+From the analysis done, below is the breakdown of Top performing products by Quantity sold and Revenue Generated.
+1. Hat had the highest Sales of **15,929** and highest Revenue of **613,380**
+2. Shoe had a Sales of **14,402** and Revenue of **485,600**
+3. Shirt had a Sales **12,388** of and Revenue of **316,915**
+4. Gloves had a Sales of **12,369** and Revenue of **296,900**
+5. Socks had a Sales of **7,921** and Revenue of **208,230**
+6. Jacket had the lowest Sales of **5,452** and lowest Revenue of **180,785**
 
 ### Data Visualization
 ---
