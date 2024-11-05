@@ -117,8 +117,7 @@ From the analysis done, below is the breakdown of Top performing products by Qua
 
 The Pivot table below shows the analysis of this performance
 
-![image](https://github.com/user-attachments/assets/d263c8bf-b69a-4e6f-a3f9-fb5b1eb8e5a9)
-![image](https://github.com/user-attachments/assets/4337fe9d-3ddc-4ee2-9b03-6f0689c2048c)
+![image](https://github.com/user-attachments/assets/ba253d64-e561-468a-bc81-41b2a91f7cf8)
 
 
 
