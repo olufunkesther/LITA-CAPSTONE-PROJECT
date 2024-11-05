@@ -1,4 +1,4 @@
- # LITA DATA ANALYSIS PROJECT
+# LITA DATA ANALYSIS PROJECT
 
 ## Project 1: SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE
 
@@ -124,7 +124,8 @@ The Pivot table below shows the analysis of this performance
 
 ### Data Visualization
 ---
-![image](https://github.com/user-attachments/assets/0c1ac831-6385-4d46-bc5c-3227ae41e016)
+![image](https://github.com/user-attachments/assets/c3ca2faa-4e06-4ad6-9a3b-d61a9dc01ce9)
+
 
 |Heading 1|Heading 2|
 |---------|---------|
