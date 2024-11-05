@@ -116,6 +116,7 @@ From the analysis done, below is the breakdown of Top performing products by Qua
 6. Jacket had the lowest Sales of **5,452** and lowest Revenue of **180,785**
 
 The Pivot table below shows the analysis of this performance
+
 ![image](https://github.com/user-attachments/assets/d263c8bf-b69a-4e6f-a3f9-fb5b1eb8e5a9)
 ![image](https://github.com/user-attachments/assets/4337fe9d-3ddc-4ee2-9b03-6f0689c2048c)
 
