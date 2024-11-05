@@ -76,6 +76,23 @@ This project was designed to address the following analysis goals:
 ### Inference
 ---
 #### Sales Trend
+From the analysis of the data, below is the breakdown of the Sales trend by Months.
+1. February had the highest sales of **9,930**
+2. June had a sales of **9,904**
+3. March had a sales of **8,971**
+4. July had a sales of **8,420**
+5. Jan had a sales of **6,448**
+6. August had a sales of **5,478**
+7. October had a sales of **4,464**
+8. September had a sales of **3,472**
+9. April had a sales of **3,457**
+10. November had a sales of **2970**
+11. May had a sales of **2,482**
+12. December had the lowest sales of **2,465**
+
+The Pivot table below is the analysis of this trend.
+![image](https://github.com/user-attachments/assets/6e047ec9-eae0-4356-b20f-349febafecae)
+
 
 #### Regional Breakdown
 From the analysis of the data, below is the breakdown of Revenue and Sales by Region
@@ -85,6 +102,8 @@ From the analysis of the data, below is the breakdown of Revenue and Sales by Re
 4. West Region had the lowest Revenue of **300,345** with a percentage of **14.29%** and lowest sales of **11,400** with a percentage of **16.65%**
 
 The Pivot table below shows the analysis of this breakdown.
+![image](https://github.com/user-attachments/assets/1ebc9c0c-a8e2-4fcd-8dfe-1159aa8fe1f5)
+
 
 #### Top Performing Products
 From the analysis done, below is the breakdown of Top performing products by Quantity sold and Revenue Generated.
@@ -94,6 +113,10 @@ From the analysis done, below is the breakdown of Top performing products by Qua
 4. Gloves had a Sales of **12,369** and Revenue of **296,900**
 5. Socks had a Sales of **7,921** and Revenue of **208,230**
 6. Jacket had the lowest Sales of **5,452** and lowest Revenue of **180,785**
+
+The Pivot table below shows the analysis of this performance
+![image](https://github.com/user-attachments/assets/9c2aa13e-245b-44ff-bb25-237d300c536f)
+
 
 ### Data Visualization
 ---
