@@ -20,7 +20,7 @@
 
 ### Project Overview
 ---
-This project aims to uncover key insights such as top-selling products, regional performance, and monthly sales trends of Swift store. The goal is to provide insights into revenue, units sold and products across regions. By analyzing these parameters in the data received, the focus is based on understanding revenue trends and sales performance across regions and in different products. 
+This project aims to uncover key insights such as top-selling products, regional performance, and monthly sales trends of Swift store. The goal is to provide insights into revenue, units sold and products across regions. By analyzing these parameters in the data received, the focus is based on understanding revenue trends and sales performance across regions and in different products.
 
 ### Data Sources
 ---
