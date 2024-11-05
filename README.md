@@ -91,6 +91,7 @@ From the analysis of the data, below is the breakdown of the Sales trend by Mont
 12. December had the lowest sales of **2,465**
 
 The Pivot table below is the analysis of this trend.
+
 ![image](https://github.com/user-attachments/assets/6e047ec9-eae0-4356-b20f-349febafecae)
 
 
@@ -115,7 +116,10 @@ From the analysis done, below is the breakdown of Top performing products by Qua
 6. Jacket had the lowest Sales of **5,452** and lowest Revenue of **180,785**
 
 The Pivot table below shows the analysis of this performance
-![image](https://github.com/user-attachments/assets/9c2aa13e-245b-44ff-bb25-237d300c536f)
+![image](https://github.com/user-attachments/assets/d263c8bf-b69a-4e6f-a3f9-fb5b1eb8e5a9)
+![image](https://github.com/user-attachments/assets/4337fe9d-3ddc-4ee2-9b03-6f0689c2048c)
+
+
 
 
 ### Data Visualization
