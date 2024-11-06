@@ -84,7 +84,8 @@ There was a rise in revenue in **December, January, February** (which depicts th
 
 The Pivot table below is the analysis of this trend.
 
-![image](https://github.com/user-attachments/assets/05b990cc-bd72-4384-9f9a-aa5ecdcc563c)
+![image](https://github.com/user-attachments/assets/aa9fbbbb-e6e8-4f81-8dd4-4ee611e302d2)
+
 
 
 ##### RECOMMENDATION
