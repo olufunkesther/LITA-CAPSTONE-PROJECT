@@ -153,5 +153,5 @@ The other products with relatively high sales and revenue should promoted while 
 
 
 ### Conclusion
-The analysis of the sales data provided uncovers the monthly trends, the product performance and the regional breakdown of the retaol store.
+The analysis of the sales data provided uncovers the monthly trends, the product performance and the regional breakdown of the retail store.
 With the analysis given, useful decisions can be made on how to maximize sales in different regions and with different products. It also gives useful insight on the trends between different season, the peak and low seasons and how sales can be maximised with these season as well as provision made for unceratainties within these seasons.
