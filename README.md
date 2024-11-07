@@ -3,7 +3,7 @@
 ## SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE
 
 
-## PROJECT OUTLINE
+### PROJECT OUTLINE
 
 [Project Overview](#project-overview)
 
