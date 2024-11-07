@@ -29,6 +29,7 @@ This project aims to uncover key insights such as top-selling products, regional
 The primary source of Data used here is the Sales Data provided by Incubator Hub. The Data given is a table array of columns which include Product, Order ID, Customer ID, Region, Order Date, Quantity Sold and Unit Price.
 
 ### Data Characteristics
+---
 The dataset consists of the following;
 1. Product: these were the items purchased by customers.
 2. Region: the areas the products were purchased.
