@@ -2,6 +2,9 @@
 
 ## SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE
 
+
+## PROJECT OUTLINE
+
 [Project Overview](#project-overview)
 
 [Data Sources](#data-sources)
