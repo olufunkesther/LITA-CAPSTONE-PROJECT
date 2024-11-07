@@ -20,6 +20,8 @@
 
 [Data Visualization](#data-visualization)
 
+[Conclusion](#conclusion)
+
 ### Project Overview
 ---
 This project aims to uncover key insights such as top-selling products, regional performance, and monthly sales trends of a retail store. The goal is to provide insights into revenue, units sold and products across regions. By analyzing these parameters in the data received, the focus is based on understanding revenue trends and sales performance across regions and in different products.
@@ -154,4 +156,4 @@ The other products with relatively high sales and revenue should promoted while 
 
 ### Conclusion
 The analysis of the sales data provided uncovers the monthly trends, the product performance and the regional breakdown of the retail store.
-With the analysis given, useful decisions can be made on how to maximize sales in different regions and with different products. It also gives useful insight on the trends between different season, the peak and low seasons and how sales can be maximised with these season as well as provision made for unceratainties within these seasons.
+With the analysis given, useful decisions can be made on how to maximize sales in different regions and with different products. It also gives useful insight on the trends between different season, the peak and low seasons and how sales can be maximised with these season as well as provision made for uncertainties within these seasons.
