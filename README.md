@@ -137,6 +137,8 @@ The Pivot table below shows the analysis of this performance
 
 
 ##### RECOMMENDATION
+The store should invest more in products with highest sales and revenue and the products with lowest sales and revenue should be sold but not in so large quantities so that they don't make losses at the end of the day.
+The other products with relatively high sales and revenue should promoted while the ones with relatively low sales and revenue should be used as complementary goods. They could also be upsold when customers come in to make purchase.
 
 
 
@@ -151,4 +153,5 @@ The Pivot table below shows the analysis of this performance
 
 
 ### Conclusion
-
+The analysis of the sales data provided uncovers the monthly trends, the product performance and the regional breakdown of the retaol store.
+With the analysis given, useful decisions can be made on how to maximize sales in different regions and with different products. It also gives useful insight on the trends between different season, the peak and low seasons and how sales can be maximised with these season as well as provision made for unceratainties within these seasons.
